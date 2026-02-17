@@ -1,0 +1,16 @@
+title: Rhymion Labs
+description: Building generative structures that maximize potential.
+email: contact@rhymion.com
+
+# GitHub Pages標準のテーマ（最小でOK）
+theme: minima
+
+# これを入れると /feed.xml が生成されます（RSS）
+plugins:
+  - jekyll-feed
+
+# 将来、独自ドメインにしたらここを rhymion.com に変更してOK
+url: "https://rhymion.github.io"
+
+# blogのURL構造（好みで変更可）
+permalink: /blog/:year/:month/:day/:title/
