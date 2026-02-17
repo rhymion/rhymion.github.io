@@ -5,8 +5,6 @@ title: "How to Use Prisma Adapters for Testing While Keeping Accelerate for Prod
 
 # How to Use Prisma Adapters for Testing While Keeping Accelerate for Production
 
-![Prisma Testing Strategy](https://via.placeholder.com/1200x600/4F46E5/FFFFFF?text=Prisma+Testing+Strategy)
-
 **Published:** February 17, 2026 | **Reading Time:** 12 minutes | **Difficulty:** Intermediate
 
 ---
