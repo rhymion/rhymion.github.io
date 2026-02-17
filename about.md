@@ -1,8 +1,7 @@
 ---
-layout: home
-title: Rhymion Labs
+layout: page
+title: About
+permalink: /about/
 ---
 
-Rhymion Labs builds tools that help organizations construct the structures that maximize their potential.
-
-- Contact: [contact@rhymion.com](mailto:contact@rhymion.com)
+Rhymion Labs is building systems that help organizations unlock potential through generative structure.
